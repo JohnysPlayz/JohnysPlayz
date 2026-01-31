@@ -1,35 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm John</h1>
+<h3 align="center">I'm just a new developer from Greece :D</h3>
 
-###
+- 🤝 I’m looking for help with [GuessTheNumberGame](https://github.com/JohnysPlayz/GuessTheNumberGame)
 
-<p align="left">My name is John, a new coder that just tests shi-. I started from Python and  im looking forward to learning more coding languages.  I also like going out with my friends.</p>
+- 🌱 I’m currently learning: **Java**
 
-###
+- 🎲 Fun Fact: I have collaborated with Tech5G5G to translate [Fluver](https://github.com/Tech5G5G/Fluentver)
 
-<h2 align="left">About me</h2>
+- 📝 My Portfolio: [guns.lol/johnystech](guns.lol/johnystech)
 
-###
+- 📫 Reach me on Discord: **@johnysgamez**
 
-<p align="left">🔭 I’m currently working on [GuessTheNumberGame](https://github.com/JohnysPlayz/GuessTheNumberGame)<br><br>🌱 I’m currently learning Java<br><br>⚡ Fun fact I collaborated with Tech5G5G to translate [Fluver](https://github.com/Tech5G5G/Fluentver)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/johnystech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnystech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/johnystech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="johnystech" height="30" width="40" /></a>
+</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-</div>
-
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
