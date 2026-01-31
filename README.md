@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi, I'm John</h1>
 <h3 align="center">I'm just a new developer from Greece :D</h3>
 
 - 🤝 I’m looking for help with [GuessTheNumberGame](https://github.com/JohnysPlayz/GuessTheNumberGame)
