@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Guess the number game<br><br>🌱 I’m currently learning Java<br><br>⚡ Fun fact I collaborated with Tech5G5G to translate Fluver</p>
+<p align="left">🔭 I’m currently working on [GuessTheNumberGame](https://github.com/JohnysPlayz/GuessTheNumberGame)<br><br>🌱 I’m currently learning Java<br><br>⚡ Fun fact I collaborated with Tech5G5G to translate [Fluver](https://github.com/Tech5G5G/Fluentver)
 
 ###
 
