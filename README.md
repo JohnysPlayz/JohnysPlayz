@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is John, a new coder that just tests shi-. I started from Python and  im looking forward to learning more coding languages.  I also like going out with my friends.</p>
+<p align="left">My name is John, a new coder that just tests shi-. I started from Python and  im looking forward to learning more coding languages.  I also like going out with my friends.</p>
 
 ###
 
