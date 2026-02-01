@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Java**
 
-- 🎲 Fun Fact: I have collaborated with Tech5G5G to translate [Fluver](https://github.com/Tech5G5G/Fluentver)
+- 🎲 Fun Fact: I have collaborated with [Tech5G5G](https://github.com/Tech5G5G) to translate [Fluver](https://github.com/Tech5G5G/Fluentver)
 
 - 📝 My Portfolio: [guns.lol/johnystech](guns.lol/johnystech)
 
