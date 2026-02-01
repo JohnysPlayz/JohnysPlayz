@@ -1,3 +1,4 @@
+![banner](https://i.imgur.com/l0MohZs.jpeg)
 <h1 align="center">Hi, I'm John</h1>
 <h3 align="center">I'm just a new developer from Greece :D</h3>
 
