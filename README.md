@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/l0MohZs.jpeg)
 <h1 align="center">Hello, I'm Johnny</h1>
-<h3 align="center">I'm just a new developer from Greece :D</h3>
+<h3 align="center">I'm just a begginer developer from Greece :D</h3>
 
 - 🤝 I’m looking for help with [GuessTheNumberGame](https://github.com/JohnysPlayz/GuessTheNumberGame)
 
